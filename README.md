@@ -1,16 +1,30 @@
-# whatsapp_clone
+# 🍔 FoodGo - Flutter UI 🍽️  
 
-A new Flutter project.
+A **beautiful and modern** food delivery app UI built using **Flutter**.  
 
-## Getting Started
+## 📌 Features  
+✅ Clean and attractive UI design  
+✅ Smooth animations and responsive layout  
+✅ Supports both **light** and **dark** modes  
+✅ Well-structured code for easy customization  
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots  
+![Home Screen](https://github.com/itsdevzam/FoodGo/blob/main/assets/githubImages/1.png)  
+![Food Details](https://github.com/itsdevzam/FoodGo/blob/main/assets/githubImages/2.png)  
+![Cart Page](https://github.com/itsdevzam/FoodGo/blob/main/assets/githubImages/3.png)  
+![Profile Page](https://github.com/itsdevzam/FoodGo/blob/main/assets/githubImages/4.png)  
+![Order History](https://github.com/itsdevzam/FoodGo/blob/main/assets/githubImages/5.png)  
+![Checkout Page](https://github.com/itsdevzam/FoodGo/blob/main/assets/githubImages/6.png)  
+![Dark Mode](https://github.com/itsdevzam/FoodGo/blob/main/assets/githubImages/7.png)  
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites  
+- Flutter SDK installed ([Download Flutter](https://flutter.dev/docs/get-started/install))  
+- Compatible with Flutter **3.24.3**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/itsdevzam/FoodGo.git
+   cd FoodGo
